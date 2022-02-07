@@ -9,11 +9,11 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RyanCelsiusss/something.git"
+    "url": "git+https://github.com/RyanCelsiusss/cryptocadabra_english.git"
   },
   "bugs": {
-    "url": "https://github.com/RyanCelsiusss/something/issues"
+    "url": "https://github.com/RyanCelsiusss/cryptocadabra_english/issues"
   },
-  "homepage": "https://github.com/RyanCelsiusss/something#readme",
+  "homepage": "https://github.com/RyanCelsiusss/cryptocadabra_english#readme",
   "description": ""
 }
