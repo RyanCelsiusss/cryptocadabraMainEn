@@ -228,6 +228,17 @@ body {
   margin-top: 50px;
 }
 
+.text__content__closed-channel {
+  color: #c58fff;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.telegram-channel {
+  color: hsl(80deg 100% 51%);
+  text-decoration: underline;
+}
+
 /* Coaching */
 
 .coaching {
@@ -272,6 +283,12 @@ body {
   color: #c58fff;
   font-size: 20px;
   font-weight: bold;
+}
+
+.cashback__instruction {
+  text-transform: uppercase;
+  text-decoration: underline;
+  color: hsl(80deg 100% 51%);
 }
 
 /* Footer */
